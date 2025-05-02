@@ -46,3 +46,7 @@ FIFO [Número de Faltas]
 OTM [Número de Faltas]
 LRU [Número de Faltas]
 
+
+---
+
+*Projeto 2 desenvolvido por Hélio e Thomas.*
