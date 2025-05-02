@@ -20,9 +20,9 @@ Este projeto implementa e compara três algoritmos de escalonamento de CPU:
 ### Saída
 
 A saída será no formato:
-  FCFS: [Média Retorno] [Média Resposta] [Média Espera]
-  SJF: [Média Retorno] [Média Resposta] [Média Espera]
-  RR: [Média Retorno] [Média Resposta] [Média Espera]
+* **FCFS: [Média Retorno] [Média Resposta] [Média Espera]
+* * **SJF: [Média Retorno] [Média Resposta] [Média Espera]
+* **RR: [Média Retorno] [Média Resposta] [Média Espera]
 
 ## Projeto 2: Substituição de Páginas (`paginas.py`)
 
@@ -42,9 +42,9 @@ Este projeto implementa e compara três algoritmos de substituição de páginas
 ### Saída
 
 A saída será no formato:
-  FIFO [Número de Faltas]
-  OTM [Número de Faltas]
-  LRU [Número de Faltas]
+* **FIFO [Número de Faltas]
+* **OTM [Número de Faltas]
+* **LRU [Número de Faltas]
 
 
 ---
